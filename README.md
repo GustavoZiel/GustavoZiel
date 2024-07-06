@@ -2,7 +2,7 @@
 
 I'm an undergraduate Computer Science student at the University of São Paulo (USP), eager to learn new things, build impactful projects, meet interesting people, and have fun.
 
-### Tech Stack 🛠
+## Tech Stack 🛠
 
 <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/-C-000000?style=flat&logo=c"></a>
@@ -29,7 +29,7 @@ I'm an undergraduate Computer Science student at the University of São Paulo (U
     <a href="#"><img src="https://img.shields.io/badge/-Burp%20Suite-000000?style=flat&logo=burpsuite"></a>
 </p>
 
-### Contacts 🤝🏻
+## Contacts 🤝🏻
 
 <p align="center">
     <a href="https://www.linkedin.com/in/gustavo-gabriel-ribeiro-200a83279/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gustavo%20Gabriel%20Ribeiro-blue?style=flat-square&logo=linkedin"></a>
