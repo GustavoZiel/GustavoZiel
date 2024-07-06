@@ -33,5 +33,5 @@ I'm an undergraduate Computer Science student at the University of São Paulo (U
 
 <p align="center">
     <a href="https://www.linkedin.com/in/gustavo-gabriel-ribeiro-200a83279/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gustavo%20Gabriel%20Ribeiro-blue?style=flat-square&logo=linkedin"></a>
-    <a href="mailto:gustavogrib.ggr@gmail.com”><img alt="Email" src="https://img.shields.io/badge/Email-gustavogrib.ggr@gmail.com-blue?style=flat-square&logo=gmail"></a>
+    <a href="mailto:gustavogrib.ggr@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gustavogrib.ggr@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
